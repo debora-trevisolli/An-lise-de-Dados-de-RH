@@ -5,3 +5,4 @@ Criei um Case próprio aplicando as práticas de **Gestão de Projetos (PMI/PMO)
 
 
 Para visualizar o Projeto completo, acesse meu **Portfólio**: https://bit.ly/Portfólio-DeboraTrevisolliRoncardi
+
