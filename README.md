@@ -6,3 +6,4 @@ Criei um Case próprio aplicando as práticas de **Gestão de Projetos (PMI/PMO)
 
 Para visualizar o Projeto completo, acesse meu **Portfólio**: https://debora-trevisolli.notion.site/Portf-lio-Debora-Trevisolli-Roncardi-27979dfdf514807ea590c783eedbe83d
 
+https://debora-trevisolli.notion.site/Case-2-An-lise-de-Dados-de-RH-com-Power-BI-Vers-o-PMO-PMI-28e79dfdf5148058bb4ff7e44e828107
